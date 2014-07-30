@@ -1,5 +1,4 @@
-Intro To OpenStreetMap For 
-[#c4hrva Brigade Meetup](http://www.meetup.com/Code-for-Hampton-Roads/events/194019102/)
+Intro To OpenStreetMap For [#c4hrva Brigade Meetup](http://www.meetup.com/Code-for-Hampton-Roads/events/194019102/)
 =========
 
 Borrowing Some Of [Mele's](https://twitter.com/pdxmele) Awesome ["Introduction to OpenStreetMap"](http://pdxmele.com/intro-osm/OSM_intro_workshop.pdf) workshop from SOTM US 2014.   
